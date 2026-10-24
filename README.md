@@ -1,2 +1,0 @@
-# Seppelflink
-My profile README
